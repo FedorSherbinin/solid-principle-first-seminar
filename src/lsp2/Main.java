@@ -18,3 +18,4 @@ public class Main {
         System.out.printf("Order sum %d", calculator.calcAmount());
     }
 }
+
